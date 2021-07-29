@@ -22,5 +22,5 @@ docker rm discordbot
 docker run --name discordbot --restart always -d -e TOKEN=$TOKEN bradmorg/ubuntu:dbot
 ```
 123123
-
+123
 1212
